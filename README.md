@@ -38,4 +38,4 @@ Software Engineering with a specialization in Artificial Intelligence and Machin
 Deep coursework and projects completed through Alexandria University.
 
 # Contact
-Abdelrahman Moataz El-Borgy LinkedIn | GitHub
+Abdelrahman Moataz El-Borgy | www.linkedin.com/in/abdelrahmann-elborgy
